@@ -14,6 +14,11 @@ add_message_files(
    CirStamped.msg
 )
 
+add_service_files(
+  FILES
+  Range.srv
+)
+
 ## Generate added messages and services with any dependencies listed here
 generate_messages(
   DEPENDENCIES
