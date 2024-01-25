@@ -3,4 +3,4 @@ float32 offset
 float32 skew
 float32[] position
 ---
-RangeStamped range
+uwb_msgs/RangeStamped range

@@ -12,6 +12,7 @@ add_message_files(
    RangeStamped.msg
    PassiveStamped.msg
    CirStamped.msg
+   TagsPositionStamped.msg
 )
 
 add_service_files(
