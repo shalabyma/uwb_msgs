@@ -1,0 +1,9 @@
+std_msgs/Header header 
+int32 initiator_id
+float32[] initiator_pos
+float32 initiator_offset
+float32 initiator_skew
+int32 target_id
+float32[] target_pos
+float32 target_offset
+float32 target_skew
